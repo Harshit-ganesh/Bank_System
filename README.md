@@ -32,7 +32,7 @@ The **Banking System** project is a simple Java-based application that demonstra
 1. **Clone the Repository**
 
    ```sh
-   git clone https://github.com/your-username/banking-system.git
+   https://github.com/Harshit-ganesh/Bank_System.git
    cd banking-system
 
 2. **Compile the Java Files**
